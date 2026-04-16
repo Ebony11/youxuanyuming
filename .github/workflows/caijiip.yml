@@ -55,8 +55,8 @@ jobs:
         
     - name: Commit and push changes
       run: |
-        git config --global user.email "baolw50@gmail.com"
-        git config --global user.name "jc-lw"
+        git config --global user.email "825015726@qq.com"
+        git config --global user.name "Ebony11"
         git config --global pull.rebase false
         
         # 拉取最新更改，避免冲突
